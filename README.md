@@ -4,8 +4,6 @@ This is an advanced password generator application built with PyQt5. It provides
 
 ## Features
 
-## Features
-
 - Generate passwords with customizable length (8-32 characters)
 - Include or exclude uppercase letters, lowercase letters, numbers, and symbols
 - Option to exclude similar characters (l, 1, I, 0, O) for better readability
